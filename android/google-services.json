@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96687020814",
+    "project_id": "newapp-ea142",
+    "storage_bucket": "newapp-ea142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96687020814:android:c83a5fc2ecf7b6b3f2955f",
+        "android_client_info": {
+          "package_name": "com.example.tankk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96687020814-mpu1p0l8q6j01cdlgaj5a06pk347dhd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAstweXGaLV5N8K--KdJtiHEYJ5z9OAbzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96687020814-mpu1p0l8q6j01cdlgaj5a06pk347dhd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
